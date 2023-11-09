@@ -1,0 +1,62 @@
+body {
+  font-family: "Times New Roman";
+  background-color: aqua;
+}
+
+  h2{
+  text-align: center;
+  color: rgb(255, 255, 0);
+  background-color: rgba(4, 141, 18, 0.544);
+}
+
+
+h3 {
+  background-color: rgba(255, 255, 0, 0.521);
+  color: green;
+}
+
+h4 {
+  background-color: black;
+  color: red;
+}
+
+table {
+  width: 100%;
+}
+
+table img {
+  width: 50%; /* Set the image width to 49% for a 2x2 grid with a small gap */
+  padding: 5px; 
+  box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+#header {
+  font-style: italic;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+#footer {
+  font-style: italic;
+  background-color: blanchedalmond;
+  text-align: Center; 
+  color: rgb(232, 59, 16);
+}
+
+#menu {
+  border: 1px solid black;
+  font-size: 10pt;
+  line-height: 50px;
+  text-align: center;
+  background-color: azure;
+  width: 150px;
+}
+
+
+#content {
+  min-height: 80%;
+  text-align: left;
+  background-color: beige;
+  padding: 5%;
+}
